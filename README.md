@@ -20,7 +20,7 @@ The module works based on the mathematical equation demonstrated below.
 </br>
 ## Implementing With Python
 </br>
-<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/00.jpg" style="height : 450px;width : 450px"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/00.jpg" style="height : 250px;width : 250px"/>
 </br>
 We can see the image above is so dark, so first the histogram of the picture was drawn by matplotlib in python.
 </br>
@@ -56,7 +56,7 @@ I found out the first IPCore works well by comparing the python result with the 
 
 The image below demonstrates the output of the second IPCore.
 </br>
-<img src = "" style="height : 450px;width : 450px"/>
+<img src = "" style="height : 250px;width : 250px"/>
 </br>
 
 ## Block Design In Vivado
