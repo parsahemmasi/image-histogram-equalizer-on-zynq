@@ -16,7 +16,7 @@ As we know, images are types of digital signals.
 </br>
 The module works based on the mathematical equation demonstrated below.
 </br>
-<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/eq.png" style="height : 220px;width : 440px"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/eq.png" style="height : 150px;width : 440px"/>
 </br>
 ## Implementing With Python
 </br>
@@ -28,7 +28,7 @@ We can see the image above is so dark, so first the histogram of the picture was
 </br>
 After that the mathematical equation was implemented on every single pixel of the picture.
 </br>
-<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/eqpy.png" style="height : 220px;width : 440px"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/eqpy.png"/>
 </br>
 Result:
 </br>
@@ -56,7 +56,7 @@ I found out the first IPCore works well by comparing the python result with the 
 
 The image below demonstrates the output of the second IPCore.
 </br>
-<img src = "" style="height : 250px;width : 250px"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Testbench%20Results/HLS_Adjusted_image.jpg" style="height : 250px;width : 250px"/>
 </br>
 
 ## Block Design In Vivado
