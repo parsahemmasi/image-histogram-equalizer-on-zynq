@@ -56,7 +56,7 @@ I found out the first IPCore works well by comparing the python result with the 
 
 The image below demonstrates the output of the second IPCore.
 </br>
-<img src = "" style="height : 250px;width : 250px"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Testbench%20Results/HLS_Adjusted_image.jpg" style="height : 250px;width : 250px"/>
 </br>
 
 ## Block Design In Vivado
