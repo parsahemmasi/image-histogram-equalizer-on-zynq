@@ -45,7 +45,7 @@ It's clear, that the mathematical equation stretches the histogram.
 The testbench of the first IPCore created a plain text that contains the histogtam values of the input picture.
 I found out the first IPCore works well by comparing the python result with the testbench resualt.
 </br>
-<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/3.png"/>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/3.png" style="height : 600px;width : 90px"/>
 </br>
 </br>
 <img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/4.png" style="height : 220px;width : 440px"/>
