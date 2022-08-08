@@ -11,8 +11,9 @@ In this project, the module equalizes the histogram and reguralizes the contrast
 
 ## Theory
 As we know, images are types of digital signals.
-<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/system.png" style="height : 22px;width : 22px"/>
-
+</br>
+<img src = "https://raw.githubusercontent.com/parsahemmasi/image-histogram-equalizer-on-zynq/main/Images/system.png" style="height : 220px;width : 440px"/>
+</br>
 The module works based on the mathematical equation demonstrated below.
 <img>
 
